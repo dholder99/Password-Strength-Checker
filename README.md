@@ -13,7 +13,7 @@ This Python project involves building a script to check the strength of user pas
 
 <h2>Environments Used </h2>
 
-- <b>Kali Linux</b> 
+- <b>Mac OS (Ventura)</b> 
 
 <!--
 
