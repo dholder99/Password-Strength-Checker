@@ -1,9 +1,14 @@
 <h1>Password Strength Checker</h1>
 
 <h2>Description</h2>
-This Python project involves building a script to check the strength of user passwords based on length, complexity, and dictionary-based checks. The script utilizes external libraries such as argparse and zxcvbn to parse command-line arguments and perform password analysis, respectively. The tool can be used to test the strength of passwords and provide feedback on how to improve them.
+A Python program that checks the strength of a given password by assessing its length, complexity, and uniqueness. The program uses a combination of regular expressions and string manipulation to determine the strength of a password and provides feedback to the user.
 <br />
 
+<h2>Project Features:</h2>
+
+- <b>Validates password strength based on length, complexity, and uniqueness</b>
+- <b>Provides feedback on the strength of a password to the user</b>
+- <b>Uses regular expressions and string manipulation to assess password strength</b>
 
 <h2>Languages and Utilities Used</h2>
 
